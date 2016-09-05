@@ -61,3 +61,9 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 | Quotes           | `"Isn't this fun?"`            | "Isn't this fun?" |
 | Dashes           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
 
+=======
+### Footnotes
+
+You can create footnotes like this[^footnote].
+
+  [^footnote]: Here is the *text* of the **footnote**.

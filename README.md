@@ -51,3 +51,8 @@ var bar = 0;
 > - about **Prettify** syntax highlighting [here][5],
 > - about **Highlight.js** syntax highlighting [here][6].
 
+### Footnotes
+
+You can create footnotes like this[^footnote].
+
+  [^footnote]: Here is the *text* of the **footnote**.

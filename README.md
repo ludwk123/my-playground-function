@@ -1,6 +1,6 @@
 # my-playground-function
 
-Welcome to StackEdit!
+Hello and Welcome to StackEdit!
 ===================
 
 
